@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Martins Blog on Martins Blog </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 20 Jun 2018 00:06:56 CEST</updated>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 20 Jun 2018 00:06:56 CEST</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Few words about project.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 09 Nov 2014 13:49:44 &#43;0400</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
+
