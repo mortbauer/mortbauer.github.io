@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Martins Blog</title>
-    <link>/tags/</link>
+    <link>https://mortbauer.github.io/tags/</link>
     <description>Recent content in Tags on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jun 2018 00:06:56 +0200</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mortbauer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://mortbauer.github.io/tags/blogging/</link>
+      <pubDate>Wed, 20 Jun 2018 00:06:56 +0200</pubDate>
+      
+      <guid>https://mortbauer.github.io/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://mortbauer.github.io/tags/testing/</link>
+      <pubDate>Wed, 20 Jun 2018 00:06:56 +0200</pubDate>
+      
+      <guid>https://mortbauer.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
