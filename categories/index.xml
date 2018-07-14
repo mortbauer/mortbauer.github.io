@@ -10,14 +10,5 @@
 	<atom:link href="https://mortbauer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Development</title>
-      <link>https://mortbauer.github.io/categories/development/</link>
-      <pubDate>Wed, 20 Jun 2018 00:06:56 +0200</pubDate>
-      
-      <guid>https://mortbauer.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

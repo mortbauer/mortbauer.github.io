@@ -7,7 +7,17 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 20 Jun 2018 00:06:56 CEST</updated>
+    <updated>Thu, 12 Jul 2018 23:30:42 CEST</updated>
+    
+    <item>
+      <title>Systemd Nspawn Raspbian</title>
+      <link>https://mortbauer.github.io/post/systemd-nspawn-raspbian/</link>
+      <pubDate>Thu, 12 Jul 2018 23:30:42 CEST</pubDate>
+      
+      <guid>https://mortbauer.github.io/post/systemd-nspawn-raspbian/</guid>
+      <description>use systemd-nspawn to boot raspbian image The setup is a bit tricky and some things might have to be changed, but it should basically work.
+ setup the loopback devive using: loosetup -f -P &amp;lt;path_to_img&amp;gt;.img as root and lets assume the output is /dev/loop1. make sure you have the prerequistes:   qemu-user-static binfmt-support   run sudo update-binfmts --enable qemu-arm or something similar create a mount point, lets assume mnt in the current directory mount the image mount /dev/loop1p1 mnt try to start a chroot using systemd-nspawn --bind /lib64 --bind /usr/bin/qemu-arm-static -D mnt /bin/bash as root.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -16,16 +26,6 @@
       
       <guid>https://mortbauer.github.io/about/</guid>
       <description>This is martin personal webblog.</description>
-    </item>
-    
-    <item>
-      <title>Martin</title>
-      <link>https://mortbauer.github.io/post/martin/</link>
-      <pubDate>Wed, 20 Jun 2018 00:06:56 CEST</pubDate>
-      
-      <guid>https://mortbauer.github.io/post/martin/</guid>
-      <description>This is already quite cool could it get even better?
-probably it always can, but do we need it?</description>
     </item>
     
     <item>
