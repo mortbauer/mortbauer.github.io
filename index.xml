@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Martins Blog on Martins Blog </title>
@@ -7,7 +6,18 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 12 Jul 2018 23:30:42 CEST</updated>
+    <updated>Wed, 29 May 2019 21:09:00 CEST</updated>
+    
+    <item>
+      <title>Sops</title>
+      <link>https://mortbauer.github.io/post/sops/</link>
+      <pubDate>Wed, 29 May 2019 21:09:00 CEST</pubDate>
+      
+      <guid>https://mortbauer.github.io/post/sops/</guid>
+      <description>Intro to sops This is just a very quick intro to sops an open sourced secrets management tool from mozilla.
+Sops can be used to transparently encrypt full, or partially config files, transparently in the sense that the keys in a yaml, json won&amp;rsquo;t be encrypted only the values, which allows to version control the file with git and more.
+To create an with your gpg key &amp;lsquo;encrypted&amp;rsquo; file run:</description>
+    </item>
     
     <item>
       <title>Systemd Nspawn Raspbian</title>

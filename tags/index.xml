@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 23:30:42 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 21:09:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mortbauer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Embedded</title>
+      <title>encryption</title>
+      <link>https://mortbauer.github.io/tags/encryption/</link>
+      <pubDate>Wed, 29 May 2019 21:09:00 +0200</pubDate>
+      
+      <guid>https://mortbauer.github.io/tags/encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://mortbauer.github.io/tags/security/</link>
+      <pubDate>Wed, 29 May 2019 21:09:00 +0200</pubDate>
+      
+      <guid>https://mortbauer.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>embedded</title>
       <link>https://mortbauer.github.io/tags/embedded/</link>
       <pubDate>Thu, 12 Jul 2018 23:30:42 +0200</pubDate>
       
@@ -21,7 +39,7 @@
     </item>
     
     <item>
-      <title>Linux</title>
+      <title>linux</title>
       <link>https://mortbauer.github.io/tags/linux/</link>
       <pubDate>Thu, 12 Jul 2018 23:30:42 +0200</pubDate>
       
@@ -30,7 +48,7 @@
     </item>
     
     <item>
-      <title>Lxd</title>
+      <title>lxd</title>
       <link>https://mortbauer.github.io/tags/lxd/</link>
       <pubDate>Thu, 12 Jul 2018 23:30:42 +0200</pubDate>
       
@@ -39,7 +57,7 @@
     </item>
     
     <item>
-      <title>Qemu</title>
+      <title>qemu</title>
       <link>https://mortbauer.github.io/tags/qemu/</link>
       <pubDate>Thu, 12 Jul 2018 23:30:42 +0200</pubDate>
       
@@ -48,7 +66,7 @@
     </item>
     
     <item>
-      <title>Raspberry</title>
+      <title>raspberry</title>
       <link>https://mortbauer.github.io/tags/raspberry/</link>
       <pubDate>Thu, 12 Jul 2018 23:30:42 +0200</pubDate>
       
@@ -57,7 +75,7 @@
     </item>
     
     <item>
-      <title>Systemd Nspawn</title>
+      <title>systemd-nspawn</title>
       <link>https://mortbauer.github.io/tags/systemd-nspawn/</link>
       <pubDate>Thu, 12 Jul 2018 23:30:42 +0200</pubDate>
       

@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Martins Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 23:30:42 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 21:09:00 +0200</lastBuildDate>
     
 	<atom:link href="https://mortbauer.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sops</title>
+      <link>https://mortbauer.github.io/post/sops/</link>
+      <pubDate>Wed, 29 May 2019 21:09:00 +0200</pubDate>
+      
+      <guid>https://mortbauer.github.io/post/sops/</guid>
+      <description>Intro to sops This is just a very quick intro to sops an open sourced secrets management tool from mozilla.
+Sops can be used to transparently encrypt full, or partially config files, transparently in the sense that the keys in a yaml, json won&amp;rsquo;t be encrypted only the values, which allows to version control the file with git and more.
+To create an with your gpg key &amp;lsquo;encrypted&amp;rsquo; file run:</description>
+    </item>
     
     <item>
       <title>Systemd Nspawn Raspbian</title>
